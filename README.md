@@ -1,1 +1,1 @@
-# google_classroom-connector
+# Google_Classroom Connector
